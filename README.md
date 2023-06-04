@@ -1,3 +1,4 @@
+[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-718a45dd9cf7e7f842a935f5ebbe5719a5e09af4491e668f4dbf3b35d5cca122.svg)](https://classroom.github.com/online_ide?assignment_repo_id=11281006&assignment_repo_type=AssignmentRepo)
 # Lesson 3 Project
 Within the span of this course, you will be able to develop your own web pages using the practices you learned during the lesson and following the directions below. Before you start the lesson make sure that you have completed all How-To and Practice Activities which will greatly help you with this lesson.
 
